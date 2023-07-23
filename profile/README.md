@@ -2,6 +2,8 @@
 
 This organization is an experiment: to collaborate with others and to bootstrap my own setup with Terrafrom, Terragrunt, K8s, Helm, Helmfile and many more interesting technologies.
 
+For my personal projects checkout my personal GitHub profile [nicojahn](https://github.com/nicojahn)!
+
 <!--
 
 **Here are some ideas to get you started:**
